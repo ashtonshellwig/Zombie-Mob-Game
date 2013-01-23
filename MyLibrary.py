@@ -134,7 +134,7 @@ def __str__(self):
                 "," + str(self.frame_height) + "," + str(self.columns) + \
                 "," + str(self.rect)
 
-#point class you gosh danged nerd
+#point class you nerd
 class Point(object):
     def __init__(self, x, y):
         self.__x = x
